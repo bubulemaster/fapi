@@ -1,0 +1,6 @@
+[global]
+port = 8000
+
+[global.limits]
+forms = 131072
+json = 640000
